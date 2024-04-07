@@ -2,13 +2,9 @@
 <h3 align="center">I am a efficient programmer with good time management and Digital forensic skills.I actively work to identify and analyze potential risks, threats, and vulnerabilities to security and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. </h3>
 <img align="right" alt="Coading" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p5ys1i8nx140b0bpny58bnmpp9p4rwjzxg4fcnth&rid=giphy.gif&ct=g">
 
-<p align="left"> <a href="https://twitter.com/tushar__trivedi" target="blank"><img src="https://img.shields.io/twitter/follow/tushar__trivedi?logo=twitter&style=for-the-badge" alt="tushar__trivedi" /></a> </p>
+- 🌱 I’m currently learning **Web pentesting and React**
 
-- I'm Currently working on **python tools for port scanning and backdoors**
-
-- 🌱 I’m currently learning **Web pentesting**
-
-- I'm looking forward to **work on some networking tools and more advance python scripting**
+- I'm looking forward to **work on some react ,next js and more advance python scripting**
 
 - 💬 Ask me about **Python , Networking , SQL , Shell**
 
